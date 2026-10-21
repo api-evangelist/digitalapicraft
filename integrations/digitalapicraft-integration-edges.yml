@@ -1,0 +1,18 @@
+generated: '2026-10-20'
+method: none
+source:
+- https://zapier.com/apps/digitalapicraft/integrations
+- https://zapier.com/apps/digitalapi/integrations
+- https://n8n.io/integrations/digitalapicraft/
+- https://composio.dev/toolkits/digitalapicraft
+- https://monid.ai/tools/digitalapicraft
+checked:
+- https://composio.dev/toolkits/digitalapicraft
+- https://monid.ai/tools/digitalapicraft
+- https://n8n.io/integrations/digitalapicraft/
+- https://zapier.com/apps/digitalapi/integrations
+- https://zapier.com/apps/digitalapicraft/integrations
+summary: null
+marketplace_apps: []
+edges: []
+templates: []
